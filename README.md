@@ -1,4 +1,4 @@
-# freeCodeCamp clone!
+# freeCodeCamp clone! 🌐
 
 This is my first approach to the open-source front-end JavaScript library [React! ⚛️](https://github.com/facebook/react).
 
