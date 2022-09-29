@@ -11,7 +11,7 @@ It was made in order to learn the basic concepts of React to introduce me more a
 
 You can see the final result of this project displayed here:
 
-#### `https://devpacho.github.io/freeCodeCamp-clone/`
+#### https://devpacho.github.io/freeCodeCamp-clone/
 
 I hope you like it! 👍🏼
 
