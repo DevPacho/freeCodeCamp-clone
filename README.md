@@ -24,8 +24,8 @@ I hope you like it! 👍🏼
 
 ## Credits ©
 
-The development of this project was made possible thanks to the course to learn React from scratch taken [here](https://www.youtube.com/watch?v=6Jfk8ic3KVk).
+- The development of this project was made possible thanks to the course to learn React from scratch taken [here](https://www.youtube.com/watch?v=6Jfk8ic3KVk).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Adapted by: [DevPacho](https://github.com/DevPacho).
+- Adapted by: [DevPacho](https://github.com/DevPacho).
